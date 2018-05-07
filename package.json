@@ -1,0 +1,15 @@
+{
+  "name": "test123",
+  "version": "0.0.0",
+  "private": true,
+  "description": "test package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vincent Weevers",
+  "license": "MIT",
+  "repository": "vweevers/test123",
+  "bugs": "https://github.com/vweevers/test123/issues",
+  "homepage": "https://github.com/vweevers/test123"
+}
